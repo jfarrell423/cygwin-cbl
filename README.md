@@ -16,4 +16,4 @@ https://cygwin-windows.blogspot.com/2018/10/cygwin-can-be-powerful-tool-for-it.h
  4) Added my COBOL renumber program.
  5) Added TICTACTOE Program originally in the 1980s Microsoft COBOL product.
  6) Added ELIZA considering it is part of my COBOL experiance I wanted to share.
-
+ 7) Added compile shell scripts one using -x flag and one not using the flag.
