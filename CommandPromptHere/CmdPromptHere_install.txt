@@ -1,0 +1,6 @@
+Right-click on CmdPromptHere.reg and choose Merge or just double-click on it.
+
+Answer "yes" to any prompts that appear.
+
+You will then be able to right-click on a folder in Windows Explorer and choose 
+Command Prompt Here to open a command prompt in that directory.
