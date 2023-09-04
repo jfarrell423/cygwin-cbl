@@ -32,3 +32,7 @@ https://cygwin-windows.blogspot.com/2018/10/cygwin-can-be-powerful-tool-for-it.h
  9) Adding Command Prompt Here Installation.
 10) Added Phone Number Data Entry Screen.
 11) Added Phone Number Database Creation Program.
+
+Adding the ORIGIN to local:
+git remote add origin https://github.com/jfarrell423/cygwin-cbl.git
+
