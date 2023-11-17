@@ -24,7 +24,7 @@ https://cygwin-windows.blogspot.com/2018/10/cygwin-can-be-powerful-tool-for-it.h
  1) Added welcome.cbl to display a message.
  2) Added BASH Menu Shell example. 
  3) Added Message Shell Script example.
- 4) Added my COBOL renumber program.
+ 4) Added a COBOL renumber program.
  5) Added TICTACTOE Program originally in the 1980s Microsoft COBOL product.
  6) Added ELIZA considering it is part of my COBOL experiance I wanted to share.
  7) Added compile shell scripts one using -x flag and one not using the flag.
@@ -32,6 +32,7 @@ https://cygwin-windows.blogspot.com/2018/10/cygwin-can-be-powerful-tool-for-it.h
  9) Adding Command Prompt Here Installation.
 10) Added Phone Number Data Entry Screen.
 11) Added Phone Number Database Creation Program.
+12) Added a couple of CYGWIN sample scripts.
 
 Adding the ORIGIN to local:
 git remote add origin https://github.com/jfarrell423/cygwin-cbl.git
