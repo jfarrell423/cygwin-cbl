@@ -33,7 +33,11 @@ https://cygwin-windows.blogspot.com/2018/10/cygwin-can-be-powerful-tool-for-it.h
 10) Added Phone Number Data Entry Screen.
 11) Added Phone Number Database Creation Program.
 12) Added a couple of CYGWIN sample scripts.
+13) Added Sample Files for GNU COBOL 01 Video: https://www.youtube.com/watch?v=SEdKTNBgDqE
+    
 
 Adding the ORIGIN to local:
 git remote add origin https://github.com/jfarrell423/cygwin-cbl.git
+
+
 
