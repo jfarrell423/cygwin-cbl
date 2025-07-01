@@ -5,6 +5,8 @@ The purpose is to give the public a list of programs and scripts they can put to
 
 Thanks for checking this repository out. Best of luck to you in using CYGWIN and COBOL.
 Jerry D. Farrell
+Adding my playlist to make it easier to find my videos:
+https://www.youtube.com/playlist?list=PLjZQghIEroZfDKmSPq7I1H11jP8cFef6q
 
 YouTube Video Links:
 
