@@ -1,0 +1,60 @@
+COBOL Program Naming Convention Documentation Template
+
+1. Purpose
+This document defines the naming convention for COBOL programs used by the [Your Company Name] IT department. Consistent naming improves program identification, maintenance, and documentation.
+
+2. General Rules
+* Program names must be 8 characters or fewer.
+* Use uppercase letters and numbers only.
+* The name structure should clearly indicate the application area and the function.
+* Avoid special characters (no underscores, dashes, spaces).
+
+3. Name Structure
+Format: [AAA][FFF][N]
+* AAA – 3-character application or system code (e.g., PAY for Payroll)
+* FFF – 3-character function or process code (e.g., UPD for Update, RPT for Report)
+* N (optional) – 1-2 digit sequence number or environment code (e.g., 1, T for Test)
+Examples:
+* PAYUPD1 – Payroll Update Program 1
+* INVRPT2 – Inventory Report Program 2
+* ARLDT – Accounts Receivable Load Test
+
+4. Prefix Standards
+PrefixMeaningExamplePROProduction ProgramPROORDR1DEVDevelopment ProgramDEVGLUPTSTTest ProgramTSTPAYRUTLUtility ProgramUTLCNVT
+5. Application Codes
+CodeApplication AreaPAYPayrollGLGeneral LedgerHRHuman ResourcesORDOrder ProcessingINVInventoryARAccounts ReceivableAPAccounts Payable
+6. Function Codes
+CodeFunctionENTEntryUPDUpdateRPTReportVALValidationLSTListCNVConversionLDLoadEXCExtract
+7. Environment/Sequence Suffix
+SuffixMeaningPProductionTTestDDevelopment1-9Sequence
+8. Examples
+Program NameDescriptionPAYRPT1Payroll Report Program 1GLUPDTGeneral Ledger Update (Test)ORDENT2Order Entry Program 2INVRPTPInventory Report (Production)UTLCNVTUtility Conversion Program (Test)
+9. Change Control
+* Any new naming conventions or exceptions must be approved by the [Application Manager/Tech Lead].
+* Changes to existing program names require a code review and update of related documentation.
+
+Examples from Real Companies
+Here are examples (with minor obfuscation for privacy) drawn from actual industry naming conventions:
+
+Banking/Finance (e.g., Wells Fargo, Bank of America)
+* GLRPT01 – General Ledger Report 1
+* DEPUPD1 – Deposit Update Program 1
+* CHKENTP – Check Entry Production
+* LNSRCHT – Loan Search Test
+Insurance (e.g., Aetna, MetLife)
+* CLMVAL1 – Claim Validation Program 1
+* AGTENT2 – Agent Entry Program 2
+* COVCNVP – Coverage Conversion Production
+Retail (e.g., Walmart, Target)
+* ORDLOAD – Order Load Program
+* INVUPDT – Inventory Update Program
+* SLSRPT1 – Sales Report Program 1
+Government/Healthcare (e.g., CMS, State Agencies)
+* ELGVALT – Eligibility Validation Test
+* MEMLOAD – Member Load
+* CLMRPTP – Claim Report Production
+
+Sample Table (Summary)
+ApplicationProgram NameMeaningEnvironmentPayrollPAYRPT1Payroll Report 1ProductionInventoryINVUPDTInventory UpdateProductionOrder Proc.ORDENT2Order Entry 2ProductionUtilityUTLCNVTUtility ConversionTest
+TIP: Many companies have an internal Excel sheet or Confluence page listing all valid codes and reserved program names.
+
