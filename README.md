@@ -6,17 +6,21 @@ The purpose is to give the public a list of programs and scripts they can put to
 Thanks for checking this repository out. Best of luck to you in using CYGWIN and COBOL.
 Jerry D. Farrell
 Adding my playlist to make it easier to find my videos:
+
 https://www.youtube.com/playlist?list=PLjZQghIEroZfDKmSPq7I1H11jP8cFef6q
 
 YouTube Video Links:
 
 2021-12-29 Install GNU Cobol with CYGWIN
+
 https://www.youtube.com/watch?v=vU0wpLtnMkY&t=683s
 
 2021-12-31 Automatic Bash Message Setup
+
 https://www.youtube.com/watch?v=WzTlPae5MU4
 
 2022-02-03 Compiling the programs:
+
 https://www.youtube.com/watch?v=ilWJZc_Yk3U
 
 My BLOG can be found here: 
